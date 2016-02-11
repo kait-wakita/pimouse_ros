@@ -1,10 +1,10 @@
 #!/bin/bash -xve
 
 #required package
-pip install catkin_pkg --proxy=ccproty.kanagawa-it.ac.jp:10080
-pip install empy --proxy=ccproty.kanagawa-it.ac.jp:10080
-pip install pyyaml --proxy=ccproty.kanagawa-it.ac.jp:10080
-pip install rospkg --proxy=ccproty.kanagawa-it.ac.jp:10080
+pip install catkin_pkg --proxy=ccproxy.kanagawa-it.ac.jp:10080
+pip install empy --proxy=ccproxy.kanagawa-it.ac.jp:10080
+pip install pyyaml --proxy=ccproxy.kanagawa-it.ac.jp:10080
+pip install rospkg --proxy=ccproxy.kanagawa-it.ac.jp:10080
 
 #ros install
 cd ..
