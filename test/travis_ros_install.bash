@@ -7,8 +7,8 @@
 #pip install rospkg --proxy=ccproxy.kanagawa-it.ac.jp:10080
 
 #pip install --upgrade pip
-pip install catkin_pkg
 pip install empy
+pip install catkin_pkg
 pip install pyyaml
 pip install rospkg
 
