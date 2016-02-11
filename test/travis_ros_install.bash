@@ -1,8 +1,8 @@
 #!/bin/bash -xve
 
 #required package
-pip install pyyaml
 pip install empy
+pip install pyyaml
 pip install catkin_pkg
 pip install rospkg
 
