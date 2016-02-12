@@ -1,0 +1,6 @@
+uint16[] freqs
+fload32[] durations
+---
+bool finished
+---
+uint32 remaining_steps
